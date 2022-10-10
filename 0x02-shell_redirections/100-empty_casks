@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -empty -prinmtf %f'\n'
+find . -empty -printf %f'\n'
